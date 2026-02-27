@@ -12,7 +12,7 @@ We skip the hand-waving. We skip the vague explanations. Every concept is ground
 
 | Part | Title | Status |
 |------|-------|--------|
-| **Part 1** | What Actually Happens When You Type a Prompt? | ✅ Released |
+| **Part 1** | What Actually Happens When You Type a Prompt? | ✅ Released | https://www.youtube.com/watch?v=Jlu9al3lzH8
 | **Part 2** | Setting Up MLX & Running Your First Inference on Apple Silicon | 🔜 Coming Soon |
 | **Part 3** | Understanding the KV Cache — And Building It in Code | 🔜 Coming Soon |
 | **Part 4** | Quantization — Making Models Smaller Without Breaking Them | 🔜 Coming Soon |
@@ -44,8 +44,8 @@ You Type a Prompt
 │         Transformer Blocks        │
 │                                   │
 │   ┌─────────────────────────┐     │
-│   │     Self-Attention       │     │  ← Runs across N layers
-│   │  (Q · Kᵀ / √dₖ) · V    │     │
+│   │     Self-Attention      │     │     ← Runs across N layers
+│   │  (Q · Kᵀ / √dₖ) · V     │     │
 │   └────────────┬────────────┘     │
 │                │                  │
 │   ┌────────────▼────────────┐     │
@@ -72,7 +72,7 @@ You Type a Prompt
            │
            ▼
     Stream to Screen ✅
-```<img width="308" height="836" alt="Screenshot 2026-02-27 at 10 31 09 AM" src="https://github.com/user-attachments/assets/6b33965b-fa27-47b9-a7eb-33d5e26519b5" />
+```
 
 
 ---
@@ -377,9 +377,8 @@ This series is all about learning in public. If you spot a bug, a technical inac
 
 ## 📬 Connect
 
-- 🎥 YouTube: [your channel link]
-- 🐦 Twitter/X: [@yourhandle]
-- 💼 LinkedIn: [your profile]
+- 🎥 YouTube: https://www.youtube.com/watch?v=Jlu9al3lzH8
+- 💼 LinkedIn: https://www.linkedin.com/in/pranay-hedau/
 
 ---
 
