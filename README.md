@@ -72,7 +72,8 @@ You Type a Prompt
            │
            ▼
     Stream to Screen ✅
-```
+```<img width="308" height="836" alt="Screenshot 2026-02-27 at 10 31 09 AM" src="https://github.com/user-attachments/assets/6b33965b-fa27-47b9-a7eb-33d5e26519b5" />
+
 
 ---
 
